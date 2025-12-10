@@ -24,7 +24,7 @@
       "type": "string"
     },
     "html": {
-      "type": "string"
+      "type": "text"
     },
     "excerpt": {
       "type": "string"
@@ -38,6 +38,9 @@
     "isFeatured": {
       "type": "boolean",
       "default": false
+    },
+    "ad": {
+      "type": "string"
     }
   }
 }
